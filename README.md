@@ -1,8 +1,6 @@
 
 # Cybersecurity Dashboard
 
-![Streamlit App](https://app-cybersecurity-dashboard.streamlit.app)
-
 This is a **Streamlit-based web application** designed to visualize and analyze cybersecurity metrics, providing real-time insights into potential threats, security vulnerabilities, and overall system performance.
 
 The **Cybersecurity Dashboard** provides a user-friendly interface for both technical and non-technical users to monitor critical aspects of a system's security health.
