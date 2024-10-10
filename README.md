@@ -57,7 +57,7 @@ To run this application locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you want to improve this dashboard or fix any issues, feel free to submit a pull request. Please ensure that you adhere to the contribution guidelines outlined in `CONTRIBUTING.md`.
+Contributions are welcome! If you want to improve this dashboard or fix any issues, feel free to submit a pull request.
 
 ## License
 
