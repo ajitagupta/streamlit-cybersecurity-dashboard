@@ -25,8 +25,8 @@ This repository contains multiple cybersecurity dashboards:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/cybersecurity-dashboard.git
-cd cybersecurity-dashboard
+git clone https://github.com/ajitagupta/streamlit-cybersecurity-dashboard.git
+cd streamlit-cybersecurity-dashboard
 ```
 
 2. Install the required packages:
