@@ -1,13 +1,6 @@
 # Cybersecurity Dashboard
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/cybersecurity-dashboard)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/cybersecurity-dashboard)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/cybersecurity-dashboard)
-![GitHub license](https://img.shields.io/github/license/yourusername/cybersecurity-dashboard)
-
 A collection of interactive cybersecurity dashboards built with Streamlit, ranging from beginner-friendly to advanced professional use.
-
-![Dashboard Preview](https://i.imgur.com/abc123.png)
 
 ## 🚀 Features
 
