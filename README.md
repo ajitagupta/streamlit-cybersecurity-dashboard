@@ -70,4 +70,5 @@ OWASP for security best practices
 
 ## 📧 Contact
 If you have any questions, feel free to reach out:
-Ajita Gupta - @AjitaOnX
+<br>
+Author: Ajita Gupta
