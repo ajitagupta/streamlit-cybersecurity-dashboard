@@ -27,13 +27,13 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ajitagupta/cybersecurity-dashboard.git
+   git clone https://github.com/ajitagupta/streamlit-cybersecurity-dashboard.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd cybersecurity-dashboard
+   cd streamlit-cybersecurity-dashboard
    ```
 
 3. Install the required dependencies:
