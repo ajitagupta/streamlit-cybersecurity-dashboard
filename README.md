@@ -6,19 +6,11 @@ A collection of interactive cybersecurity dashboards built with Streamlit, rangi
 
 This repository contains multiple cybersecurity dashboards:
 
-### 1. Beginner-Friendly Dashboard
 - Plain-language explanations of common security threats
 - Visual displays of incident types and risk levels
 - Educational components explaining cybersecurity basics
 - Practical security tips for different devices
 - Simple filtering options
-
-### 2. Advanced Professional Dashboard
-- Comprehensive security metrics and KPIs
-- Detailed trend analysis and risk matrix
-- Compliance tracking and reporting
-- Advanced filtering and data exploration tools
-- Department and system-specific security insights
 
 ## 📋 Requirements
 
