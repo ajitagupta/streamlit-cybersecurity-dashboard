@@ -53,13 +53,13 @@ The dashboards use synthetic data for demonstration purposes. In a real-world sc
 
 See the data_connectors folder for examples of how to integrate with real data sources.
 
-## Modifying the Theme
+## 🔧 Modifying the Theme
 Update the custom CSS in the styles section of each dashboard file.
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
