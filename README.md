@@ -1,69 +1,88 @@
-
 # Cybersecurity Dashboard
 
-This is a **Streamlit-based web application** designed to visualize and analyze cybersecurity metrics, providing real-time insights into potential threats, security vulnerabilities, and overall system performance.
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/cybersecurity-dashboard)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/cybersecurity-dashboard)
+![GitHub stars](https://img.shields.io/github/stars/yourusername/cybersecurity-dashboard)
+![GitHub license](https://img.shields.io/github/license/yourusername/cybersecurity-dashboard)
 
-The **Cybersecurity Dashboard** provides a user-friendly interface for both technical and non-technical users to monitor critical aspects of a system's security health.
+A collection of interactive cybersecurity dashboards built with Streamlit, ranging from beginner-friendly to advanced professional use.
 
-## Features
+![Dashboard Preview](https://i.imgur.com/abc123.png)
 
-- **Real-Time Threat Monitoring**: Track and visualize cybersecurity threats, including malware, phishing attacks, and other vulnerabilities.
-- **Security Metrics**: Analyze key metrics such as failed login attempts, unauthorized access, network activity, and more.
-- **Data Visualization**: Interactive charts and graphs to help users better understand their system’s security status.
-- **Alerts and Notifications**: Displays warnings for critical threats and vulnerabilities that need immediate attention.
-- **Customizable Views**: Select specific time periods or metrics to analyze, giving users a detailed and personalized security overview.
+## 🚀 Features
 
-## Technology Stack
+This repository contains multiple cybersecurity dashboards:
 
-- **Frontend**: [Streamlit](https://streamlit.io/) – A Python library that allows easy creation of data applications with minimal code.
-- **Backend**: Python for data processing and analysis.
-- **Data Visualization**: `matplotlib` and `plotly` for generating interactive charts.
-- **Deployment**: The app is hosted on Streamlit Cloud.
+### 1. Beginner-Friendly Dashboard
+- Plain-language explanations of common security threats
+- Visual displays of incident types and risk levels
+- Educational components explaining cybersecurity basics
+- Practical security tips for different devices
+- Simple filtering options
 
-## Installation
+### 2. Advanced Professional Dashboard
+- Comprehensive security metrics and KPIs
+- Detailed trend analysis and risk matrix
+- Compliance tracking and reporting
+- Advanced filtering and data exploration tools
+- Department and system-specific security insights
 
-To run this application locally, follow these steps:
+## 📋 Requirements
 
-1. Clone the repository:
+- Python 3.8+
+- Streamlit 1.10+
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
 
-   ```bash
-   git clone https://github.com/ajitagupta/streamlit-cybersecurity-dashboard.git
-   ```
+## ⚙️ Installation
 
-2. Navigate into the project directory:
+1. Clone this repository:
+```bash
+git clone https://github.com/yourusername/cybersecurity-dashboard.git
+cd cybersecurity-dashboard
+```
 
-   ```bash
-   cd streamlit-cybersecurity-dashboard
-   ```
+2. Install the required packages:
+```bash
+pip install -r requirements.txt
+```
 
-3. Install the required dependencies:
+## 🚀 Usage
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+### Running the Beginner Dashboard
+```bash
+streamlit run cybersecurity_dashboard.py
+```
 
-4. Run the Streamlit app:
+## 📊 Demo Data
 
-   ```bash
-   streamlit run cybersecurity_dashboard.py
-   ```
+The dashboards use synthetic data for demonstration purposes. In a real-world scenario, you would connect these dashboards to:
 
-## How to Use
+- SIEM systems
+- Vulnerability scanners
+- Security logs
+- Network monitoring tools
+- Threat intelligence feeds
 
-1. Launch the application locally or access the live app [here](https://app-cybersecurity-dashboard.streamlit.app).
-2. Navigate through the dashboard to view real-time security metrics.
-3. Customize the data view by selecting different time frames or security metrics.
-4. The dashboard automatically updates as new data comes in, ensuring you always have the latest information.
+See the data_connectors folder for examples of how to integrate with real data sources.
 
-## Contributing
+## Modifying the Theme
+Update the custom CSS in the styles section of each dashboard file.
 
-Contributions are welcome! If you want to improve this dashboard or fix any issues, feel free to submit a pull request.
+## 🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+##📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+## 🙏 Acknowledgements
 
-## Acknowledgements
+Streamlit for the amazing dashboard framework
+Plotly for interactive visualizations
+OWASP for security best practices
 
-- Thanks to the [Streamlit](https://streamlit.io/) community for building an amazing tool for building data-driven web apps.
-- Special thanks to all contributors and users who have helped improve this project.
+## 📧 Contact
+If you have any questions, feel free to reach out:
+Ajita Gupta - @AjitaOnX
